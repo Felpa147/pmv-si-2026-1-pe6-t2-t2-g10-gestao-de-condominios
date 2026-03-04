@@ -1,27 +1,31 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O **SmartSíndico** é um projeto de aplicativo voltado para a modernização da gestão condominial, desenvolvido com o propósito de centralizar e otimizar os principais processos administrativos de condomínios residenciais e comerciais. Em um contexto onde a tecnologia tem transformado a forma como pessoas e empresas se organizam, muitos condomínios ainda enfrentam dificuldades relacionadas à comunicação ineficiente, falta de transparência financeira, processos burocráticos e controle descentralizado de informações.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O problema identificado está na gestão administrativa de condomínios residenciais e comerciais, que em muitos casos ainda é realizada por meio de processos manuais, planilhas isoladas, registros em papel e aplicativos de mensagens não estruturados. Esse modelo de administração dificulta a organização das informações, aumenta o risco de erros e compromete a eficiência das atividades do dia a dia.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Os objetivos deste trabalho estão diretamente relacionados à necessidade de melhorar a organização, a transparência e a eficiência na gestão condominial.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo geral é desenvolver um software capaz de solucionar os problemas identificados na administração de condomínios, especialmente aqueles relacionados à desorganização das informações, falhas na comunicação, dificuldades na prestação de contas e conflitos no controle de reservas de áreas comuns.
+
+Como objetivos específicos, destacam-se:
+
+- Centralizar as informações administrativas em um único sistema;
+
+- Melhorar o controle financeiro, facilitando o registro e a visualização de receitas e despesas;
+
+- Proporcionar maior transparência na prestação de contas;
+
+- Organizar e automatizar o processo de reservas de áreas comuns;
+
+- Facilitar a comunicação entre administração e moradores;
+
+- Reduzir erros operacionais e retrabalho na rotina condominial.
+
+- Dessa forma, o trabalho busca oferecer uma solução tecnológica que torne a gestão mais eficiente, organizada e confiável.
 
 ## Justificativa
 
