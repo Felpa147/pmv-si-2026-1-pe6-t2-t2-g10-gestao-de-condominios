@@ -1,39 +1,33 @@
 # Introdução
 
-O **SmartSíndico** é um projeto de aplicativo voltado para a modernização da gestão condominial, desenvolvido com o propósito de centralizar e otimizar os principais processos administrativos de condomínios residenciais e comerciais. Em um contexto onde a tecnologia tem transformado a forma como pessoas e empresas se organizam, muitos condomínios ainda enfrentam dificuldades relacionadas à comunicação ineficiente, falta de transparência, processos burocráticos e controle descentralizado de informações.
+O *SmartSíndico* é um projeto de aplicativo voltado para a modernização da gestão condominial, desenvolvido com o objetivo de centralizar e otimizar os principais processos operacionais de condomínios residenciais. Em um contexto onde a tecnologia tem transformado a forma como pessoas se organizam, muitos condomínios ainda enfrentam dificuldades relacionadas à comunicação ineficiente, falhas na segurança da portaria, processos burocráticos e controle descentralizado de informações.
 
 ## Problema
-O problema identificado está na gestão administrativa de condomínios residenciais e comerciais, que em muitos casos ainda é realizada por meio de processos manuais, planilhas isoladas, registros em papel e aplicativos de mensagens não estruturados. Esse modelo de administração dificulta a organização das informações, aumenta o risco de erros e compromete a eficiência das atividades do dia a dia.
+O problema identificado aparece na rotina operacional, que em muitos casos ainda é realizada por meio de processos manuais, como registros em papel, planilhas de controle de acesso na portaria e aplicativos de mensagens não estruturados. Esse modelo dificulta a organização das informações, aumenta o risco de erros na liberação de visitantes e compromete a segurança e a convivência dos moradores.
 
 ## Objetivos
 
-Os objetivos deste trabalho estão diretamente relacionados à necessidade de melhorar a organização, a transparência e a eficiência na gestão condominial.
+Objetivo Geral:
+Desenvolver um software capaz de solucionar os problemas identificados na administração de condomínios, especialmente aqueles relacionados à segurança no controle de acesso, falhas na comunicação interna, gestão de reclamações e conflitos no agendamento de áreas comuns.
 
-O objetivo geral é desenvolver um software capaz de solucionar os problemas identificados na administração de condomínios, especialmente aqueles relacionados à desorganização das informações, falhas na comunicação, dificuldades na prestação de contas e conflitos no controle de reservas de áreas comuns.
+Objetivos específicos:
 
-Como objetivos específicos, destacam-se:
-
-- Centralizar as informações administrativas em um único sistema;
-
-- Proporcionar maior transparência na prestação de contas;
-
+Objetivos Específicos:
+- Centralizar as informações de moradores e unidades em um único sistema;
+- Modernizar o controle de portaria, agilizando o registro e liberação de visitantes;
 - Organizar e automatizar o processo de reservas de áreas comuns;
-
-- Facilitar a comunicação entre administração e moradores;
-
-- Reduzir erros operacionais e retrabalho na rotina condominial.
-
-- Dessa forma, o trabalho busca oferecer uma solução tecnológica que torne a gestão mais eficiente, organizada e confiável.
+- Formalizar o registro e acompanhamento de ocorrências e manutenções;
+- Facilitar a comunicação oficial entre administração e moradores (Mural Digital).
 
 ## Justificativa
 
-A criação do **SmartSíndico** surge da necessidade de modernizar e simplificar a administração condominial por meio da tecnologia. Em muitos condomínios, a gestão ainda é realizada de forma manual ou com o uso de ferramentas pouco integradas, como planilhas, grupos de mensagens e comunicados impressos. Esse modelo tradicional pode gerar falhas na comunicação, retrabalho, desorganização e dificuldade no acompanhamento das informações, impactando diretamente a eficiência da administração e a satisfação dos moradores.
+O SmartSíndico foi desenvolvido para modernizar e simplificar a administração condominial por meio da tecnologia. Muitos condomínios ainda dependem de processos manuais, como planilhas, livros de ocorrências físicos e comunicados impressos. Esse modelo tradicional gera retrabalho e dificulta a centralização das informações, o que prejudica a agilidade da administração.
 
-Um dos principais desafios enfrentados está na gestão geral do condomínio. Síndicos e administradores frequentemente acumulam diversas responsabilidades, atendimento a moradores, organização de assembleias e acompanhamento de manutenções. Sem uma plataforma centralizada, torna-se mais difícil manter tudo organizado e acessível, aumentando as chances de erros e atrasos.
+Além da parte administrativa, um dos pontos mais críticos é a segurança operacional na portaria. Síndicos e zeladores ficam sobrecarregados com múltiplas funções e, sem um sistema informatizado, o controle de acesso torna-se vulnerável. O registro manual de visitantes em cadernos ou planilhas desconectadas aumenta o tempo de espera e dificulta a identificação rápida de quem está no condomínio, o que fragiliza a segurança do local.
 
-Outro problema recorrente envolve as reservas de áreas comuns, como salão de festas, churrasqueira e quadras esportivas. A ausência de um sistema automatizado pode causar conflitos de agendamento, reservas duplicadas, falta de critérios claros e dificuldades no controle de uso. Isso gera insatisfação entre os moradores e desgaste na administração.
+Outro problema recorrente envolve a convivência e o uso dos espaços, como as reservas de áreas comuns (salão de festas, churrasqueira). Sem um fluxo automático, surgem conflitos de agendamento, reservas duplicadas e falta de critérios claros. Além disso, reclamações importantes muitas vezes se perdem em grupos de mensagens informais, gerando insatisfação entre os moradores e desgaste na relação com a administração.
 
-Diante desse cenário, o SmartSíndico foi idealizado para utilizar a tecnologia como aliada na administração do condomínio. A proposta é oferecer uma plataforma digital que centralize informações, automatize processos e facilite a comunicação e as reservas de áreas comuns. Com isso, busca-se promover mais transparência, organização e eficiência, tornando a gestão mais prática, segura e profissional para todos os envolvidos.
+Nesse contexto, o projeto propõe modernizar a rotina na administração do condomínio. A proposta é oferecer uma plataforma digital que centralize a gestão, agilize o controle de visitantes com segurança e organize as reservas de áreas comuns. O objetivo é garantir transparência, tornando a gestão mais prática e profissional para todos os envolvidos.
 
 
 ## Público-Alvo
